@@ -33,9 +33,8 @@ Open a terminal and change directory to the location where you want to install t
 
 ```bash
 git clone https://github.com/carlosfranzreb/spkanon_eval
-cd spkanon_eval
-git checkout better_batches
-pip install .
+cd ..
+bash ./spkanon_eval/build/framework.sh
 ```
 
 ### 2. Add the model
