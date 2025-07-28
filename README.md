@@ -25,7 +25,7 @@ You can also find the code for training the phone and duration predictors in the
 
 We have summarized the most important results in the CSV file called "vpc_results.csv".
 
-The model is implemented to work with the [SpAnE framework](https://github.com/carlosfranzreb/spkanon_eval). All datasets required by the VPC evaluation are anonymized with SpAnE. Then, the datafiles for the VPC 2024 evaluation are created and the evaluation is run.
+The model is implemented to work with the [SpAnE framework](https://github.com/carlosfranzreb/spane). All datasets required by the VPC evaluation are anonymized with SpAnE. Then, the datafiles for the VPC 2024 evaluation are created and the evaluation is run.
 
 ### 1. Install SpAnE
 
